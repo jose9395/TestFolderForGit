@@ -1,0 +1,1 @@
+This is a sample piece of text for testing the functionality of git
